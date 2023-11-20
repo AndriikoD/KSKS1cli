@@ -1,0 +1,6 @@
+﻿  KSKS1ser.cpp
+C:\Users\davle\Desktop\Study\curse3\VSprojects\KSKS\KSKS1ser\KSKS1ser\KSKS1ser.cpp(93,53): warning C4101: 'e': unreferenced local variable
+C:\Users\davle\Desktop\Study\curse3\VSprojects\KSKS\KSKS1ser\KSKS1ser\KSKS1ser.cpp(112,53): warning C4101: 'e': unreferenced local variable
+C:\Users\davle\Desktop\Study\curse3\VSprojects\KSKS\KSKS1ser\KSKS1ser\KSKS1ser.cpp(193,16): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\davle\Desktop\Study\curse3\VSprojects\KSKS\KSKS1ser\KSKS1ser\KSKS1ser.cpp(201,16): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  KSKS1ser.vcxproj -> C:\Users\davle\Desktop\Study\curse3\VSprojects\KSKS\KSKS1ser\x64\Debug\KSKS1ser.exe

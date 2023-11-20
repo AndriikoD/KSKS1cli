@@ -1,0 +1,4 @@
+﻿  KSKS1cli.cpp
+C:\LR1\KSKS\KSKS1cli\KSKS1cli\KSKS1cli.cpp(35,32): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\LR1\KSKS\KSKS1cli\KSKS1cli\KSKS1cli.cpp(52,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  KSKS1cli.vcxproj -> C:\LR1\KSKS\KSKS1cli\x64\Debug\KSKS1cli.exe
